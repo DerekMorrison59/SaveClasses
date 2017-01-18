@@ -7,6 +7,8 @@ import java.util.TimeZone;
  * Created by Derek on 1/17/2017.
  *
  * Comment contains the name of the commenter, the comment and the date/time the comment was created
+ *
+ * Consider adding one or more IDs to allow this comment to be processed once downloaded from the server
  */
 
 public class Comment {
